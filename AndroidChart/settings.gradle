@@ -1,0 +1,2 @@
+rootProject.name='AndroidChart'
+include ':app'
